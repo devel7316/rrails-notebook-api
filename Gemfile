@@ -46,3 +46,7 @@ group :development do
   # gem "spring"
 end
 
+# * -------------------------------------
+# myAdd: faker gem 
+gem 'faker', :git => 'https://github.com/faker-ruby/faker.git', :branch => 'main'
+# * -------------------------------------
